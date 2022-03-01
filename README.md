@@ -1,7 +1,7 @@
 # flutter_solodise
 
-A new Flutter project.
-
+ Como es una aplicacion de diseño para lanzarla hay que usar flutter run --no-sound-null-safety
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
