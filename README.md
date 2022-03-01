@@ -1,18 +1,10 @@
 # flutter_solodise
+ Usa los principios de Neumorphism  
+ enlace: https://opengeekslab.medium.com/neumorphism-the-next-big-thing-in-ui-design-11e703df3ab0
 
  Como es una aplicacion de diseño para lanzarla hay que usar flutter run --no-sound-null-safety
- 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_solo_ui
-# flutter_solo_ui
+  
+  
+  asi es como se ve: 
+  
+![foto del diseño por si acaso peta ](https://github.com/emede04/flutter_solo_ui/blob/main/dise%C3%B1o.png)
